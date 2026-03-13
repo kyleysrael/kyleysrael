@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 ### Hello! My name is Kyle Cua.
-I'm a web developer currently working on my AI project named Raven. I specialize in building custom WordPress and Next.js projects and love taking on new challenges to push my skills further.
+I'm a web developer. I specialize in building custom WordPress Themes and Next.js projects and love taking on new challenges to push my skills further.
 
 
 ## Tech Stack
