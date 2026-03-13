@@ -98,31 +98,3 @@ I'm a web developer. I specialize in building custom WordPress Themes and Next.j
   <img alt="kyleysrael's GitHub Stats" src="https://github-readme-stats-lake-seven-36.vercel.app/api/top-langs?username=kyleysrael&show_icons=true&theme=transparent&hide_border=true&layout=compact">
 </div>
 
-## Badges
-
-<div style="display: inline-block">
-<img alt="Kyle-Instagram" src="https://github-profile-trophy.vercel.app/?username=kyleysrael&theme=onedark&no-frame=false&no-bg=true&margin-w=4&border=false" target="_blank">
-</div>
-
-## Contact
-
-<div style="display: inline-block">
-  <a href="mailto:kylecua28@gmail.com" target="_blank">
-    <img alt="Kyle-Mail" src="https://img.shields.io/badge/-Mail-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/kyle-ysrael-cua-22b367244/" target="_blank">
-    <img alt="Kyle-LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-
-</div>
-
-![Snake animation](https://github.com/kyleysrael/kyleysrael/blob/output/github-contribution-grid-snake.svg)
-
-<table>
-  <tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/kyleysrael/count.svg" alt="" /></td>
-  </tr>
-</table>
-
-![MasterHead](https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg)
